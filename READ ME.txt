@@ -1,0 +1,6 @@
+Author: Prince xrae
+visit: https://xraecity.com
+
+This is a front end menu with slide show and menu bar
+
+Tools: JS, CSS and HTML, jquery
